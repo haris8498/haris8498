@@ -51,7 +51,7 @@
 - 🌱 Learning **Advanced Backend Technologies**
 - 👯 Looking to collaborate on **Open Source Projects**
 - 💬 Ask me about **C++, Python, Web Development**
-- 📫 How to reach me: **your-email@example.com**
+- 📫 How to reach me: hariskhan8498@gmail.com
 
 ## 📫 Connect With Me
 <p align="left">
