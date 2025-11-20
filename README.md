@@ -80,3 +80,5 @@
   *"Code is like humor. When you have to explain it, it's bad." - Cory House*
   
 </div>
+
+![snake gif](https://github.com/haris8498/haris8498/blob/output/github-contribution-grid-snake.svg)
